@@ -43,6 +43,7 @@ A question came up: **"What archiver software can propagate MOTW to extracted fi
 |[tar.exe (bsdtar)](https://github.com/libarchive/libarchive) of Windows 10|3.5.2|BSD 2-clause|No :x:||
 |[ZipGenious](https://zipgenius.com/)|6.3.2.3116|freeware|No :x:||
 |[Zipware](https://www.zipware.org/)|1.6|freeware|No :x:||
+|[PeaZip](https://peazip.github.io/)|8.6.0|GNU LGPLv3|No :x:||
 
 <a id="*1">*1</a>: Accoring to [the document of Bandizip](https://www.bandisoft.com/bandizip/help/zone-identifier/), Bandizip propagates MOTW to files with the following file extensions:
 - .exe .com .msi .scr .bat .cmd .pif .bat .lnk
